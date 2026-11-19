@@ -1,0 +1,34 @@
+# Employee Data Analysis Report
+
+## 1. Problem
+
+The purpose of this project is to understand employee information, department sizes and salary details. We want to find out how employees are distributed across departments and how their salaries differ.
+
+## 2. Data
+
+The dataset contains 10 employees. It includes employee ID, name, department, salary, joining date and city.
+
+Python libraries used:
+- Pandas
+- Matplotlib
+- Seaborn
+
+## 3. Three Key Findings
+
+1. The IT department has the highest number of employees, while HR and Finance have fewer employees.
+2. The IT department has the highest average salary among the departments.
+3. Employee salaries are spread across different salary ranges, with most employees earning between ₹30,000 and ₹70,000.
+
+## 4. Recommendations
+
+1. The company should review employee distribution across departments to understand whether more staff are needed in smaller departments.
+2. The company should regularly review salaries to maintain fair pay across departments.
+
+## 5. Limitations
+
+1. The dataset contains only 10 employees, so it may not represent the whole company.
+2. The dataset does not include employee experience, performance or qualifications.
+
+## Conclusion
+
+        This project helped me understand employee data using Python and create charts to explain the results. It also helped me practise data analysis and data visualisation.
